@@ -18,7 +18,7 @@ interface Document {
   downloads: number;
 }
 
-const API_URL = 'http://localhost:4000'; // Địa chỉ json-server
+const API_URL = 'https://apidoanhoi.andyanh.id.vn'; // Địa chỉ json-server
 
 const CATEGORIES = [
   {
